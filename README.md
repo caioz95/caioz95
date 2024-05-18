@@ -6,7 +6,7 @@
 Hoje estou buscando uma oportunidade de estagio na área de desenvolvimento back-end
 
 - 💻 Apaixonado por programação.
-- 👨🏿‍🎓 Estudo de Análise e Desenvolvimento de Sistema  **2/5**
+- 👨🏿‍🎓 Estudo de Análise e Desenvolvimento de Sistema  **4/4**
 
 ---------------------
 
