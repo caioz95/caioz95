@@ -1,17 +1,11 @@
-<div>
-  <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/caiomiguel95/">Caio Miguel </a>
-  </h1>
-Hoje estou buscando uma oportunidade área de desenvolvimento back-end e analista de dados junior.
+# Olá! Tudo bem? Eu sou o [Caio Miguel](https://www.linkedin.com/in/caiomiguel95/)
 
+## Sobre Mim
 - 💻 Apaixonado por programação.
-- 👨🏿‍🎓 Estudo de Análise e Desenvolvimento de Sistema  **4/4**
+- 👨🏿‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (4/4).
+- 📈 Atualmente em busca de uma oportunidade de estágio na área de desenvolvimento back-end.
 
----------------------
-
-#### Estatísticas do GitHub
-
+## Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/caioz95">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caioz95&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
@@ -19,19 +13,17 @@ Hoje estou buscando uma oportunidade área de desenvolvimento back-end e analist
   </a>
 </div>
 
-#### Tecnologias
+## Tecnologias
 <div align="center">
   <a href="https://github.com/caioz95/java-AT" target="_blank">
     <img align="center" alt="Caio-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-   
-  </a>
+    </a>
   <a href="https://github.com/caioz95/automatizador_de_tarefas" target="_blank">
     <img align="center" alt="Caio-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-    
-  </a>
+    </a>
 </div>
 
-#### Contato
+## Contato
 <div align="center">
   <a href="https://www.linkedin.com/in/caio-miguel-paix%C3%A3o-da-silva-00324b11a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -43,4 +35,10 @@ Hoje estou buscando uma oportunidade área de desenvolvimento back-end e analist
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-</div>
+
+## Animação de Contribuições
+![Snake animation](https://github.com/caioz95/caioz95/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
