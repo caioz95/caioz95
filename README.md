@@ -3,7 +3,7 @@
 ## Sobre Mim
 - 💻 Apaixonado por programação.
 - 👨🏿‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (4/4).
-- 📈 Atualmente em busca de uma oportunidade de estágio na área de desenvolvimento back-end.
+- 📈 Atualmente em busca de uma oportunidade na área de desenvolvimento back-end e analista de dados.
 
 ## Estatísticas do GitHub
 <div align="center">
