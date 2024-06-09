@@ -13,7 +13,7 @@
   </a>
 </div>
 
-## Tecnologias
+## Tech
 <div align="center">
   <a href="https://github.com/caioz95/java-AT" target="_blank">
     <img align="center" alt="Caio-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
