@@ -37,7 +37,7 @@
 </div>
 
 ## Animação de Contribuições
-[![Snake animation](https://github.com/caioz95/caioz95/blob/output/github-contribution-grid-snake.svg)](https://github.com/danielbped/danielbped/blob/573d3c6b47ca73fc60eea5dd0f60cd8b29006fc0/github-contribution-grid-snake.svg)
+[![caioz95](https://github.com/caioz95/caioz95/blob/output/github-contribution-grid-snake.svg)](https://github.com/danielbped/danielbped/blob/573d3c6b47ca73fc60eea5dd0f60cd8b29006fc0/github-contribution-grid-snake.svg)
 
 
 
