@@ -36,8 +36,7 @@
   </a>
 </div>
 
-## Animação de Contribuições
-![Snake animation](https://github.com/caioz95/caioz95/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
